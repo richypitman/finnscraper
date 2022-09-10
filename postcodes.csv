@@ -1,0 +1,117 @@
+Region,Fylke,Kommuner
+00,Oslo,Oslo
+01,Oslo,Oslo
+02,Oslo,Oslo
+03,Oslo,Oslo
+04,Oslo,Oslo
+05,Oslo,Oslo
+06,Oslo,Oslo
+07,Oslo,Oslo
+08,Oslo,Oslo
+09,Oslo,Oslo
+10,Oslo,Oslo
+11,Oslo,Oslo
+12,Oslo,Oslo
+13,Akershus/Østfold,Bærum;Asker
+14,Akershus/Østfold,Nordre Follo;Ås;Frogn;Nesodden;Lørenskog;Lillestrøm;Nittedal
+15,Akershus/Østfold,Moss;Våler
+15,Akershus/Østfold,Vestby (Akershus)
+16,Akershus/Østfold,Fredrikstad;Hvaler;Råde
+17,Akershus/Østfold,Sarpsborg;Aremark
+18,Akershus/Østfold,Marker;Indre Østfold;Skiptvet
+19,Akershus/Østfold,Aurskog-Høland;Enebakk;Lillestrøm;Nes
+20,Akershus/Østfold,Rælingen;Lillestrøm;Gjerdrum;Ullensaker;Eidsvoll;Nannestad;Hurdal
+21,Akershus/Østfold,Nes
+21,Akershus/Østfold,Nord-Odal;Sør-Odal
+22,Hedmark,Kongsvinger;Sør-Odal;Eidskog;Grue;Åsnes
+23,Hedmark,Hamar;Ringsaker;Løten;Stange
+24,Hedmark,Våler;Elverum;Trysil;Åmot;Stor-Elvdal;Rendalen;Engerdal
+25,Hedmark,Tolga;Tynset;Alvdal;Folldal;Os
+26,Oppland,Ringsaker
+26,Oppland,Lillehammer;Dovre;Lesja;Skjåk;Lom;Vågå;Nord-Fron;Sel;Sør-Fron;Ringebu;Øyer;Gausdal
+27,Oppland,Lunner;Gran
+28,Oppland,Gjøvik;Østre Toten;Vestre Toten;Søndre Land;Nordre Land;Etnedal
+29,Oppland,Sør-Aurdal;Nord-Aurdal;Vestre Slidre;Øystre Slidre;Vang
+30,Buskerud,Drammen
+30,Buskerud/Vestfold,Holmestrand
+31,Buskerud/Vestfold,Horten;Tønsberg;Sandefjord;Færder
+32,Buskerud/Vestfold,Sandefjord;Larvik
+33,Buskerud/Vestfold,Sigdal;Modum;Øvre Eiker
+34,Buskerud/Vestfold,Asker;Lier
+35,Buskerud/Vestfold,Ringerike;Hole;Flå;Nesbyen;Gol;Hemsedal;Ål;Hol;Krødsherad;Nore og Uvdal
+35,Buskerud/Vestfold,Jevnaker;Gran;Sør-Aurdal
+36,Buskerud/Vestfold,Kongsberg;Flesberg;Rollag;Nore og Uvdal
+36,Buskerud/Vestfold,Notodden;Tinn
+37,Telemark,Skien;Siljan;Kragerø;Drangedal
+38,Telemark,Nome;Midt-Telemark;Seljord;Kviteseid;Nissedal;Fyresdal;Tokke;Vinje
+39,Telemark,Porsgrunn;Bamble
+40,Rogaland,Stavanger;Sola;Randaberg
+41,Rogaland,Stavanger;Sandnes;Strand;Hjelmeland;Suldal;Kvitsøy
+42,Rogaland,Suldal;Sauda;Karmøy
+43,Rogaland,Eigersund;Sandnes;Sokndal;Bjerkreim;Hå;Klepp;Time;Gjesdal
+44,Rogaland,Lund
+44,Rogaland,Flekkefjord;Kvinesdal;Sirdal
+45,Vest-Agder,Lindesnes;Farsund;Åseral;Lyngdal;Hægebostad
+46,Vest-Agder,Kristiansand
+47,Aust-Agder,Vennesla
+47,Aust-Agder,Lillesand;Birkenes;Iveland;Evje og Hornnes;Bygland;Valle;Bykle
+48,Aust-Agder,Grimstad;Arendal;Froland;Åmli
+49,Aust-Agder,Risør;Arendal;Gjerstad;Vegårshei;Tvedestrand
+50,Hordaland,Bergen
+51,Hordaland,Øygarden
+52,Hordaland,Bergen;Bjørnafjorden;Osterøy
+53,Hordaland,Austevoll;Øygarden;Askøy
+54,Hordaland,Bømlo;Stord;Fitjar;Kvinnherad
+55,Hordaland,Haugesund;Bokn;Tysvær;Karmøy;Utsira;Vindafjord
+55,Hordaland,Etne;Sveio
+56,Hordaland,Tysnes;Kvinnherad;Ullensvang;Kvam;Samnanger;Bjørnafjorden
+57,Hordaland,Ullensvang;Eidfjord;Ulvik;Voss;Vaksdal;Modalen
+57,Hordaland,Aurland
+58,Hordaland,Bergen
+59,Sogn og Fordane,Alver;Austrheim;Fedje;Masfjorden
+59,Sogn og Fordane,Gulen;Høyanger
+60,Møre og Romsdal,Ålesund;Sande;Herøy;Ulstein;Hareid;Sula;Giske
+61,Møre og Romsdal,Vanylven;Ørsta;Volda
+62,Møre og Romsdal,Ålesund;Stranda;Sykkylven;Fjord
+63,Møre og Romsdal,Molde;Vestnes;Rauma
+64,Møre og Romsdal,Ålesund;Aukra;Hustadvika
+65,Møre og Romsdal,Kristiansund;Averøy;Smøla;Aure
+66,Møre og Romsdal,Gjemnes;Tingvoll;Sunndal;Surnadal;Aure;Heim(Halsa);Rindal
+67,Sogn og Fordane,Kinn;Bremanger;Stad;Volda(Hornindal);Stryn
+68,Sogn og Fordane,Vik;Sogndal;Lærdal;Årdal;Luster;Sunnfjord;Gloppen
+69,Sogn og Fordane,Kinn;Solund;Hyllestad;Høyanger;Askvoll;Fjaler;Sunnfjord
+70,Trondelag,Trondheim
+71,Trondelag,Ørland;Indre Fosen;Åfjord;Orkland
+72,Trondelag,Heim;Hitra;Frøya;Orkland;Midtre Gauldal;Melhus
+73,Trondelag,Oppdal;Rennebu;Orkland;Skaun;Røros;Holtålen;Midtre Gauldal
+74,Trondelag,Trondheim
+75,Trondelag,Trondheim;Malvik;Selbu;Tydal
+75,Trondelag,Stjørdal;Meråker
+76,Trondelag,Frosta;Levanger;Verdal;Inderøy
+77,Trondelag,Osen
+77,Trondelag,Steinkjer;Namsos;Indre Fosen;Snåsa;Flatanger
+78,Trondelag,Namsos;Lierne;Røyrvik;Namsskogan;Grong;Høylandet;Overhalla
+79,Trondelag,Nærøysund;Leka
+79,Trondelag,Bindal
+80,Nordland,Bodø;Gildeskål;Røst;Værøy;Jan Mayen
+81,Nordland,Bodø;Rødøy;Meløy;Gildeskål;Beiarn
+82,Nordland,Narvik;Saltdal;Fauske;Sørfold;Steigen;Hamarøy
+83,Nordland,Moskenes;Flakstad;Vestvågøy;Vågan;Hadsel
+84,Nordland,Lødingen;Hadsel;Bø;Øksnes;Sortland;Andøy
+84,Nordland,Kvæfjord
+85,Nordland,Narvik;Evenes
+86,Nordland,Vefsn;Grane;Hattfjelldal;Hemnes;Rana
+87,Nordland,Nesna;Rana;Lurøy;Træna;Rødøy
+88,Nordland,Vevelstad;Herøy;Alstahaug;Leirfjord;Dønna
+89,Nordland,Sømna;Brønnøy;Vega;Vevelstad
+90,Troms,Tromsø;Balsfjord;Lyngen;Storfjord
+91,Troms,Tromsø;Karlsøy;Storfjord;Kåfjord;Skjervøy;Nordreisa;Kvænangen;Svalbard
+91,Troms,Loppa
+92,Troms,Tromsø
+93,Troms,Lavangen;Bardu;Salangen;Målselv;Sørreisa;Dyrøy;Senja
+94,Troms,Harstad;Kvæfjord;Tjeldsund;Ibestad;Gratangen
+95,Finnmark,Alta;Kautokeino;Loppa;Hasvik
+96,Finnmark,Hammerfest;Måsøy
+97,Finnmark,Nordkapp;Porsanger;Karasjok;Lebesby;Gamvik
+98,Finnmark,Vadsø;Tana;Nesseby
+99,Finnmark,Vardø;Berlevåg;Båtsfjord;Sør-Varanger
